@@ -35,8 +35,10 @@ http://192.168.0.100:4000/rtp/238.1.78.222:7648
 http://live.wqwqwq.sbs/ysptp/cctv16.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17HD
 http://192.168.0.100:4000/rtp/238.1.78.178:7296
-#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="央视",TVBS HD
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="央视",TVBS HD
 https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv073
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="新聞財經", 中天新聞台
+https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv009
 #EXTINF:-1,tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://epg.112114.xyz/logo/安徽经济生活.png" group-title="安徽",安徽经济HD
 http://192.168.0.100:4000/rtp/238.1.79.44:4464
 #EXTINF:-1,tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="安徽",安徽影视HD
