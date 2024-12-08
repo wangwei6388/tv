@@ -59,24 +59,12 @@ http://192.168.0.100:4000/rtp/238.1.79.64:4648
 http://192.168.0.100:4000/rtp/238.1.79.58:4600
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视",CCTV央视台球HD
 http://192.168.0.100:4000/rtp/238.1.79.59:4608
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视FHD
-http://192.168.0.100:4000/rtp/238.1.79.27:4328
 #EXTINF:-1,tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://epg.112114.xyz/logo/安徽经济生活.png" group-title="安徽",安徽经济HD
 http://192.168.0.100:4000/rtp/238.1.79.44:4464
 #EXTINF:-1,tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="安徽",安徽影视HD
 http://192.168.0.100:4000/rtp/238.1.79.42:4448
 #EXTINF:-1,tvg-id="安徽公共" tvg-name="安徽公共" tvg-logo="https://epg.112114.xyz/logo/安徽公共.png" group-title="安徽",安徽公共HD
 http://192.168.0.100:4000/rtp/238.1.79.43:4456
-#EXTINF:-1,tvg-id="安徽体育HD" tvg-name="安徽体育HD" tvg-logo="https://epg.112114.xyz/logo/安徽体育.png" group-title="安徽",安徽体育HD
-http://192.168.0.100:4000/rtp/238.1.79.41:4440
-#EXTINF:-1,tvg-id="安徽科教HD" tvg-name="安徽科教HD" tvg-logo="https://epg.112114.xyz/logo/安徽科教.png" group-title="安徽",安徽科教HD
-http://192.168.0.100:4000/rtp/238.1.79.40:4432
-#EXTINF:-1,tvg-id="安徽人物HD" tvg-name="安徽人物HD" tvg-logo="https://epg.112114.xyz/logo/安徽人物.png" group-title="安徽",安徽人物HD
-http://192.168.0.100:4000/rtp/238.1.79.45:4472
-#EXTINF:-1,tvg-id="安徽国际" tvg-name="安徽国际" tvg-logo="https://epg.112114.xyz/logo/安徽国际.png" group-title="安徽",安徽国际
-http://192.168.0.100:4000/rtp/238.1.78.61:6360
-#EXTINF:-1,tvg-id="安徽导视" tvg-name="安徽导视" tvg-logo="https://epg.112114.xyz/logo/安徽导视.png" group-title="安徽",安徽导视
-http://192.168.0.100:4000/rtp/238.1.79.66:4664
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视HD
 http://192.168.0.100:4000/rtp/238.1.78.162:7168
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视HD
@@ -86,7 +74,7 @@ http://192.168.0.100:4000/rtp/238.1.78.31:6176
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视HD
 http://192.168.0.100:4000/rtp/238.1.78.163:7176
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视HD
-http://192.168.0.100:4000/rtp/238.1.78.150:7072
+http://192.168.0.100:4000/rtp/238.1.79.27:4328
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视HD
 http://192.168.0.100:4000/rtp/238.1.78.165:7192
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视HD
