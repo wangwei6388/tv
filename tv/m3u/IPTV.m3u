@@ -141,12 +141,6 @@ http://192.168.0.100:4000/rtp/238.1.78.97:6648
 http://192.168.0.100:4000/rtp/238.1.78.82:6528
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他",金鹰卡通
 http://192.168.0.100:4000/rtp/238.1.78.100:6672
-#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="山东",山东教育
-http://192.168.0.100:4000/rtp/238.1.78.254:7904
-#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="其他",财富天下
-http://192.168.0.100:4000/rtp/238.1.78.25:6128
-#EXTINF:-1,tvg-id="东方财经浦东" tvg-name="东方财经浦东" tvg-logo="https://epg.112114.xyz/logo/东方财经浦东.png" group-title="其他",东方财经浦东
-http://192.168.0.100:4000/rtp/238.1.78.73:6456
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="其他",都市剧场
 http://192.168.0.100:4000/rtp/238.1.78.74:6464
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="其他",金色频道
